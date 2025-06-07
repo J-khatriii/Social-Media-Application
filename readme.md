@@ -24,7 +24,7 @@ A Django 4.1 -based open source social network application.
 ## Installation
 1. Clone or download this repository and open it in your editor of choice: 
 ```bash
-git clone https://github.com/shahsad-kp/ConnectionHub.git
+git clone https://github.com/J-khatriii/Social-Media-Application.git
 ```
 2. cd into project repository.
 ```bash
